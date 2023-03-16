@@ -1,0 +1,38 @@
+/* Estilo para o formulário */
+form {
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estilo para o label */
+label {
+    display: inline;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* Estilo para o input radio */
+input[type="radio"] {
+    margin-right: 10px;
+}
+
+/* Estilo para o botão submit */
+input[type="submit"] {
+    margin-top: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Estilo para o resultado */
+#resultado {
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
